@@ -27,6 +27,6 @@ Tools: [ArcGIS]
 [View the PDF](Mammoth%20Cave%20Raster%20Map%20Layers.pdf)
 
 ### Africa Countries Map
-A map of African countries showing [what it displays, e.g. country boundaries and a variable you mapped].
+A map of African countries highlighting Zambia, Gabon, and Burundi with its capitals, flags, rivers, etc.
 Tools: [ArcGIS]
 [View the PDF](Africa%20Countries%20Map.pdf)

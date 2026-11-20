@@ -16,10 +16,6 @@ An interactive map to help users identify optimal living areas at a glance, base
 Tools: [ArcGIS]
 [View the PDF](Best%20Neighborhoods%20in%20Atlanta.pdf)
 
-### Mammoth Cave National Park: Vector Map
-A map of Mammoth Cave National Park built from vector data, including [layers, e.g. boundaries, trails, roads, water].
-Tools: [ArcGIS]
-[View the PDF](Mammoth%20Cave%20National%20Park%20Vector%20Map.pdf)
 
 ### Africa Countries Map
 A map of African countries highlighting Zambia, Gabon, and Burundi with its capitals, flags, rivers, etc.

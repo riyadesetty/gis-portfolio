@@ -21,11 +21,6 @@ A map of Mammoth Cave National Park built from vector data, including [layers, e
 Tools: [ArcGIS]
 [View the PDF](Mammoth%20Cave%20National%20Park%20Vector%20Map.pdf)
 
-### Mammoth Cave National Park: Raster Map Layers
-Raster layers for Mammoth Cave National Park, including [e.g. elevation, land cover, slope].
-Tools: [ArcGIS]
-[View the PDF](Mammoth%20Cave%20Raster%20Map%20Layers.pdf)
-
 ### Africa Countries Map
 A map of African countries highlighting Zambia, Gabon, and Burundi with its capitals, flags, rivers, etc.
 Tools: [ArcGIS]

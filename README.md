@@ -18,12 +18,12 @@ Tools: [ArcGIS]
 
 ### Mammoth Cave National Park: Vector Map
 A map of Mammoth Cave National Park built from vector data, including [layers, e.g. boundaries, trails, roads, water].
-Tools: [software]
+Tools: [ArcGIS]
 [View the PDF](Mammoth%20Cave%20National%20Park%20Vector%20Map.pdf)
 
 ### Mammoth Cave National Park: Raster Map Layers
 Raster layers for Mammoth Cave National Park, including [e.g. elevation, land cover, slope].
-Tools: [software]
+Tools: [ArcGIS]
 [View the PDF](Mammoth%20Cave%20Raster%20Map%20Layers.pdf)
 
 ### Africa Countries Map
